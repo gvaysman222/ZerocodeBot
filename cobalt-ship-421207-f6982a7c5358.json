@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cobalt-ship-421207",
+  "private_key_id": "f6982a7c53580601782c3ba22643edda2853e85e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDFF/Qk9BtY+eni\nFwyrZjAi9pujhrGcy9Us0Bp3UBDURXlPnJT94ZL0s5EaLSh47jLrwNepgXV8W5hl\nkc8ySBFJ77yATj01203xtt57YHudj1zmZ5908/E8h476UySlbafATAQqPl5Twp6c\nNP8RL+0Ok4K7QuTTbklGMUyrmYa57GctbVho+SyB1YmWbXcfZMkO7P8LuTHmSF5P\nhyueAmc2DOs66+JWdR8NvHFiYIZ9gV9Rm7wIfm9e9idqgmraeuhwcsvw6VtklILI\n1uZBIX78GQSGk8tyX2ohphhd3kzn33g2O/Oo+uRAqlI8jWwsU3yXOF4kk9IbDDYW\nDDSUewO1AgMBAAECggEAFxgjsjnNQ4uDIYwoXqQac1pYqdxkTvZebAIVe9IMqsba\nPF8hYS9PoC8zSzEr6yGkI1ZFHvZNrSzxakNf1yk1J2f5O0KPrxIbq71NDAFl8rQk\nA1Z0i4hzBa/vq7rW0jCLZb+yhD2rIV7uZWjbU2j9esYDnUwtEm47lUc9D+VtMTdC\nxtzK5arZ62jIVFy+vroUoGanGDNLYawznD8B/KvgukVAYsBF+2EE6Q8v7H/XfwSC\nLhpQe5sWoYMElQ4mdekhxm154efZZN2jNKMDqC4SzJLa7OscKNk57hPQZCvbwX3V\nkcgPjtHZzwEEbzJq9/SlBQu1jOcRXhvQOTzCOYyhkQKBgQDmAJEmJjFNT/SgyvQU\nPLv8jBqPXmbhAy61axuT3Ddkp/a2wldlcl9TrIblANjhnvIvxXQXO1SXIPXYCWcZ\nRUks1X8uXJlj+las/nFsTxIYkqYJ47EzbAf3m0HkxCASMG5qiJu3Bzk4V+Pvam9t\nAF8fgHGDxrVz65EXcKWBAHgGJQKBgQDbXyEgs8ALDp5Nn/WHNN+K3RJPLcNGNlBd\nLaPh13Ma0bGsW44jRvHbNkS1b+W8l9Gk2vAPey2WUNTYKCscgkfv6I0DCOyjcPl3\nvSvNdsHRc2c+nfvEyfKlGEOh/KC0MznHglnG6F3Q2d73KVSjZFbw1JRPv9lojjvx\nsscv6dMqUQKBgEmTottGWn0197a8VgpnR2fJ1fFJLLYMk5ObmO3bA6lihez/DIA6\nbz5QMbLua3L5qtYXX0TTSQMzmxGqKF4QKRF7lrzZCITQH4wltVkFjm9n8k+1lAk0\nJPRTqWeqSewnrBrOaqnJWMeqbhM3xD9lYAiuySFznrZfhEGwWnGDGeI1AoGAF/aZ\nUNAx30NWiZY6pO1iqfGiSWHvXeEbAEK3DzmQylIzvWc27KWYT+DquoMhrmtLLF36\nMUa8YRotVft1UiTtJMjbdoRoDSaPKcRRX51kaLPZiF6LnSCOT/iJks1c5LJf0mpr\n0i2Z6fGSyJ8MLtkMIjymgturLR+0bp+f4J0DQzECgYACQy3JsxTjqroCbpwW6dC1\n+LS5QbeqQrNKR1Oi4QplPLmec4sYzhmwPjFccrAGr+nbsoz51hpakWnxpbQYEKJU\nEwzLxhN4FiPo1Z/5zsgRH5lJHHaso+RlZTFNBUWjiMeHJOyVSXcpomAWFJN3m+LM\niE1X4aUnK5KYclOk7gn31Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-356@cobalt-ship-421207.iam.gserviceaccount.com",
+  "client_id": "117371160145312607658",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-356%40cobalt-ship-421207.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
